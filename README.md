@@ -5,25 +5,22 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danish4git&label=Profile%20views&color=0e75b6&style=flat" alt="danish4git" /> </p>
 
-<p align="left"> <a href="https://twitter.com/danish4eng" target="blank"><img src="https://img.shields.io/twitter/follow/danish4eng?logo=twitter&style=for-the-badge" alt="danish4eng" /></a> </p>
-
 - 🔭 I’m currently student at Masai School
 
 
 - 🌱 I’m currently learning **Full-Stack Web Development**
 
-- 👨‍💻 All of my projects are available at [https://github.com/danish4git?tab=repositories](https://github.com/danish4git?tab=repositories)
+- 👨‍💻 All of my projects are available [https://github.com/arunfw10?tab=repositories](https://github.com/arunfw10?tab=repositories)
 
 - 💬 Ask me about **react**
 
-- 📫 How to reach me **danish4eng@gmail.com**
+- 📫 How to reach me **arunganesh.g.s.007@gmail.com**
 
 - ⚡ Fun fact **I watch the funny videos often.**
 
 </br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/danish4eng" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="danish4eng" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/linkedin.com/in/danish-ahmed-9b12b7158" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/danish-ahmed-9b12b7158" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/18289742/danish-ahmed?tab=profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/18289742/danish-ahmed?tab=profile" height="30" width="40" /></a>
 <a href="https://codesandbox.com/danish4eng" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="danish4eng" height="30" width="40" /></a>
