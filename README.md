@@ -21,11 +21,8 @@
 </br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/linkedin.com/in/danish-ahmed-9b12b7158" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/danish-ahmed-9b12b7158" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/18289742/danish-ahmed?tab=profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/18289742/danish-ahmed?tab=profile" height="30" width="40" /></a>
-<a href="https://codesandbox.com/danish4eng" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="danish4eng" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/danish4insta/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/danish4insta/" height="30" width="40" /></a>
-<a href="https://medium.com/@danish4eng" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@danish4eng" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/arun-ganesh-g-s-250011216/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/danish-ahmed-9b12b7158" height="30" width="40" /></a>
+
 <a href="https://www.leetcode.com/https://leetcode.com/danish4eng/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/danish4eng/" height="30" width="40" /></a>
 </p></br>
 
