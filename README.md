@@ -1,5 +1,5 @@
 ![MasterHead](https://cdn.computercareers.org/wp-content/uploads/Become-a-Web-Developer.jpg)
-<h1 align="center">Hi 👋, I'm Danish Ahmed</h1>
+<h1 align="center">Hi 👋, I'm Arun Ganesh G S</h1>
 <h3 align="center">A Passionate Full-Stack Web Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://qphs.fs.quoracdn.net/main-qimg-fa7b4bdc3b2f73e749e5c2c646d4ae13">
 
